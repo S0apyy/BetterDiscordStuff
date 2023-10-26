@@ -1,2 +1,3 @@
 # BetterDiscordStuff
-My stuff
+Diseases stuff
+am just fixin stuff while they are away ig
