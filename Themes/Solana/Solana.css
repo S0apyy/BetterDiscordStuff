@@ -439,7 +439,7 @@ body,
   background-color: transparent;
 }
 
-.bg__7adbf {
+.bg__12180 {
   background-color: hsla(0, 0%, calc(var(--background-floating-l) * (1 + var(--background-overlay-color-lightness))), var(--background-overlay-opacity));
 }
 
