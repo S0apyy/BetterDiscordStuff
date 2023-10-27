@@ -467,7 +467,7 @@ body::after {
   will-change: opacity;
 }
 
-#app-mount:not(:-webkit-full-screen) .layers__1c917.layers_a23c37 {
+#app-mount:not(:-webkit-full-screen) .layers_a40797.layers__12c9f {
   margin-top: var(--window-margin-px);
   margin-bottom: var(--window-margin-px);
   margin-right: var(--window-margin-px);
