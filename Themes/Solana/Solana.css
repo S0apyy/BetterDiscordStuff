@@ -423,10 +423,10 @@
 #app-mount,
 body,
 .app_b1f720,
-.app__00c92,
+.app_de4237,
 .loading__30066,
 .wrapper__246a1,
-.layer_e552e0,
+.layer__2efaa,
 .sidebarRegionScroller__1fa7e,
 .standardSidebarView__1129a,
 .contentRegionScroller__86c79,
@@ -2971,8 +2971,8 @@ html:not(.app-focused) .categoryItem_b1be5c.selectedCategoryItem__0bf4c .itemInn
   justify-content: center;
 }
 
-.layers_a40797 > .layer_e552e0.animating__64b42 *,
-.layers_a40797 > .layer_e552e0.animating__64b42 {
+.layers__1c917 > .layer__2efaa.animating__27211 *,
+.layers__1c917 > .layer__2efaa.animating__27211 {
   pointer-events: auto !important;
   will-change: unset;
 }
