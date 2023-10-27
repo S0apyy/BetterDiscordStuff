@@ -467,7 +467,7 @@ body::after {
   will-change: opacity;
 }
 
-#app-mount:not(:-webkit-full-screen) .appAsidePanelWrapper__714a6 {
+#app-mount:not(:-webkit-full-screen) .layerContainer_d5a653 {
   margin-top: var(--window-margin-px);
   margin-bottom: var(--window-margin-px);
   margin-right: var(--window-margin-px);
