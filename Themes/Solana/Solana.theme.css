@@ -12,7 +12,9 @@
 /* Source */
 @import url('https://raw.githubusercontent.com/S0apyy/BetterDiscordStuff/main/Themes/Solana/Solana.css');
 /* Optional */
-@import url('https://raw.githubusercontent.com/S0apyy/BetterDiscordStuff/main/Themes/Solana/addon/mac-titlebar.css');
+@import url("https://raw.githubusercontent.com/S0apyy/BetterDiscordStuff/main/Themes/Solana/addon/mac-titlebar.css");
+@import url("https://raw.githubusercontent.com/S0apyy/BetterDiscordStuff/main/css/bdAddonMini.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 :root {
 	/* 
 	bdeditor.dev/theme/solana
