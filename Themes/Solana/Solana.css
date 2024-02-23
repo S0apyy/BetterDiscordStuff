@@ -2283,7 +2283,7 @@ code {
   border-radius: 50%;
 }
 
-.reaction_fef95b {
+.reaction_fef95b, .reactions__88b25 {
   border-radius: 6px;
   border: var(--background-primary-border);
   box-shadow: var(--box-shadow-outer-3);
@@ -6065,3 +6065,5 @@ bd-body .floating-window {
   font-weight: 600;
   text-transform: capitalize;
 }
+
+.reactions__88b25
