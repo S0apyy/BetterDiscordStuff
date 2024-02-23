@@ -2283,7 +2283,7 @@ code {
   border-radius: 50%;
 }
 
-.reaction_fef95b, .reactions__88b25 > div {
+.reaction_fef95b {
   border-radius: 6px;
   border: var(--background-primary-border);
   box-shadow: var(--box-shadow-outer-3);
