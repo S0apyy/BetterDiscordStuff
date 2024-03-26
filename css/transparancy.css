@@ -22,7 +22,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: var(--bg-overlay-app-frame, var(--background-tertiary));
+    background: transparent;
     z-index: -1; /* Az átlátszó háttér mögé helyezése */
     filter: saturate(var(--var-color-saturation)) contrast(var(--var-contrast));
 }
