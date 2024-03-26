@@ -9,7 +9,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
+  background: url("https://i.imgur.com/jTpFJuI.png") contrast(20)no-repeat;
   background-size: 100%;
 }
 :root .app-3xd6d0::after {
