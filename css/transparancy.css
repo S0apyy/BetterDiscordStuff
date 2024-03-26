@@ -23,9 +23,6 @@ body::before {
     width: 100%;
     height: 100%;
     background: var(--bg-overlay-app-frame, var(--background-tertiary));
-    opacity: var(
-        --var-opacity-option
-    ); /* Átlátszóság beállítása (0-től 1-ig terjedő értékek) */
     z-index: -1; /* Az átlátszó háttér mögé helyezése */
     filter: saturate(var(--var-color-saturation)) contrast(var(--var-contrast));
 }
